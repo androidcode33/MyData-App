@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MyData</string>
+    <string name="action_settings">Settings</string>
+    <string name="advace1">Data Rates Valid 4 Airtel Only!!!</string>
+    <string name="advace2">BUY 35MBS @500</string>
+    <string name="advace3">BUY 50MBS @700</string>
+    <string name="advace4">BUY 100MBS @1000</string>
+</resources>
